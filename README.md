@@ -1,2 +1,2 @@
 # ElasticSearchSample
-A example of implementation of a WebAPI sending information to a ElasticSearch server on C# using .NET Core and NEST
+A example of implementation of a WebAPI sending information to a ElasticSearch server using .NET Core and NEST
