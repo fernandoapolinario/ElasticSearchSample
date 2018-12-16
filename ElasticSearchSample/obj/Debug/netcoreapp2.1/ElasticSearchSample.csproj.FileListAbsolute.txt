@@ -1,0 +1,14 @@
+C:\GIT\ElasticSearchSample\ElasticSearchSample\obj\Debug\netcoreapp2.1\ElasticSearchSample.csprojAssemblyReference.cache
+C:\GIT\ElasticSearchSample\ElasticSearchSample\obj\Debug\netcoreapp2.1\ElasticSearchSample.csproj.CoreCompileInputs.cache
+C:\GIT\ElasticSearchSample\ElasticSearchSample\obj\Debug\netcoreapp2.1\ElasticSearchSample.RazorAssemblyInfo.cache
+C:\GIT\ElasticSearchSample\ElasticSearchSample\obj\Debug\netcoreapp2.1\ElasticSearchSample.RazorAssemblyInfo.cs
+C:\GIT\ElasticSearchSample\ElasticSearchSample\obj\Debug\netcoreapp2.1\ElasticSearchSample.AssemblyInfoInputs.cache
+C:\GIT\ElasticSearchSample\ElasticSearchSample\obj\Debug\netcoreapp2.1\ElasticSearchSample.AssemblyInfo.cs
+C:\GIT\ElasticSearchSample\ElasticSearchSample\bin\Debug\netcoreapp2.1\ElasticSearchSample.deps.json
+C:\GIT\ElasticSearchSample\ElasticSearchSample\bin\Debug\netcoreapp2.1\ElasticSearchSample.runtimeconfig.json
+C:\GIT\ElasticSearchSample\ElasticSearchSample\bin\Debug\netcoreapp2.1\ElasticSearchSample.runtimeconfig.dev.json
+C:\GIT\ElasticSearchSample\ElasticSearchSample\bin\Debug\netcoreapp2.1\ElasticSearchSample.dll
+C:\GIT\ElasticSearchSample\ElasticSearchSample\obj\Debug\netcoreapp2.1\ElasticSearchSample.RazorTargetAssemblyInfo.cache
+C:\GIT\ElasticSearchSample\ElasticSearchSample\bin\Debug\netcoreapp2.1\ElasticSearchSample.pdb
+C:\GIT\ElasticSearchSample\ElasticSearchSample\obj\Debug\netcoreapp2.1\ElasticSearchSample.dll
+C:\GIT\ElasticSearchSample\ElasticSearchSample\obj\Debug\netcoreapp2.1\ElasticSearchSample.pdb
